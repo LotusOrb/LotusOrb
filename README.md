@@ -6,4 +6,4 @@ Quick Facts:
 - 🤔 Interested in human behavior and art
 - 📫 Reach Me [@email](mailto:working.rsyafridamara@gmail.com) and [@linkedIn](https://www.linkedin.com/in/rsyafridamara/).
 
-Timezone: [UTC-7](https://time.is/id/UTC-7).
+Timezone: [UTC+7](https://time.is/id/UTC+7).
