@@ -7,4 +7,6 @@ Quick Facts:
 - 📫 Reach Me [@email](mailto:working.rsyafridamara@gmail.com) and [@linkedIn](https://www.linkedin.com/in/rsyafridamara/).
 
 Timezone: [UTC+7](https://time.is/id/UTC+7).
-other collaborative platform : [Gitlab](https://gitlab.com/randasyf)
+
+
+other collaborative platform I use : [Gitlab](https://gitlab.com/randasyf)
